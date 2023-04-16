@@ -282,6 +282,9 @@
 			<xdefault> &xboxhint; </xdefault>
 		</image>
 		
+		
+		
+		
 		<!-- INFO ==================================================================-->
 		<text name="game_info_1">
 			<id> 8 </id>
