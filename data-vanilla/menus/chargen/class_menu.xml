@@ -135,7 +135,6 @@
 				<target> &false; </target>
 				<xdefault> &false; </xdefault>
 				<xlist> &xlist; </xlist>
-				<xright> <ref src="class_button_done" trait="mouseover" /> </xright>
 				<!--xup> &last; </xup>
 				<xdown> &first; </xdown-->
 				<xscroll> <ref src="class_list_scroll_bar" trait="user5" /> </xscroll>
@@ -441,9 +440,6 @@
 
 			<user20><!--&xbuttonx;-->3 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="class_list_pane" trait="mouseover"/> </xleft>
-			<xright> <ref src="class_button_done" trait="mouseover"/> </xright>
-			<xup> <ref src="class_list_pane" trait="mouseover"/> </xup>
 		</image>
 		
 		
@@ -478,8 +474,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xup> <ref src="class_list_pane" trait="mouseover"/> </xup>
-			<xleft> <ref src="class_button_create" trait="mouseover"/> </xleft>
 		</image>
 	</rect>
 	
