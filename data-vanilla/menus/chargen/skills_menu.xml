@@ -130,7 +130,6 @@
 				<target> &false; </target>
 				<xdefault> &true; </xdefault>
 				<xlist> &xlist; </xlist>
-				<xright> <ref src="skills_button_done" trait="mouseover" /> </xright>
 				<!--xup> &last; </xup>
 				<xdown> &first; </xdown-->
 				<xscroll> <ref src="skills_list_scroll_bar" trait="user5" /> </xscroll>
@@ -384,9 +383,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xup> <ref src="skills_list_pane" trait="mouseover"/> </xup>
-			<xleft> <ref src="skills_list_pane" trait="mouseover"/> </xleft>
-			<xright> <ref src="skills_button_done" trait="mouseover"/> </xright>
 		</image>
 
 		<!-- OK/DONE BUTTON ==============================================================-->
@@ -411,8 +407,6 @@
 			<user20><!--&xbuttonx;-->3 </user20>
 			
 			<xdefault> &xboxhint; </xdefault>
-			<xup> <ref src="skills_list_pane" trait="mouseover"/> </xup>
-			<xleft> <ref src="skills_button_back" trait="mouseover"/> </xdown>
 		</image>
 
 		<!-- <image name="skills_button_b_icon">
@@ -461,9 +455,6 @@
 			<blue> 33 </blue>
 		</text> -->
 	</rect>
-	
-	
-	
 	
 	<!-- TEMPLATE ==============================================================-->
 	<template name="skills_template">
