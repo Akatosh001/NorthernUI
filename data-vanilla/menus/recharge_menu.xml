@@ -257,8 +257,6 @@
 				<target> &false; </target>
 				<xdefault> &false; </xdefault>
 				<xlist> &xlist; </xlist>
-				<xleft> <ref src="recharge_button_exit" trait="mouseover" /> </xleft>
-				<xright> <ref src="recharge_button_exit" trait="mouseover" /> </xright>
 				<!--xup> &last; </xup>
 				<xdown> &first; </xdown-->
 				<xscroll> <ref src="recharge_scroll_bar" trait="user5" /> </xscroll>
@@ -325,8 +323,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xdown> <ref src="recharge_list_pane" trait="mouseover"/> </xdown>
-			<xup> <ref src="recharge_list_pane" trait="mouseover"/> </xup>
 		</image>
 	</image>
 	
