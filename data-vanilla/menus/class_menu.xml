@@ -136,12 +136,9 @@
 				<xlist> &xlist; </xlist>
 				<xleft> <ref src="class_data_layout" trait="mouseover" /> </xleft>
 				<xright> <ref src="class_data_layout" trait="mouseover" /> </xright>
-				<!--xup> &last; </xup>
-				<xdown> &first; </xdown-->
 				<xscroll> <ref src="class_list_scroll_bar" trait="user5" /> </xscroll>
 				
-				<!-- list items are added here in code from the template -->
-				
+				<!-- list items are added here in code from the template -->	
 			</rect>
 		</rect>
 		
@@ -440,10 +437,6 @@
 			<user0> <copy src="strings()" trait="_customclass" /> </user0>
 
 			<user20><!--&xbuttonx;-->3 </user20>
-			<xleft> <ref src="class_button_create" trait="mouseover"/> </xleft>
-			<xright> <ref src="class_button_create" trait="mouseover"/> </xright>
-			<xup> <ref src="class_list_pane" trait="mouseover"/> </xup>
-			<xdown> <ref src="class_list_pane" trait="mouseover"/> </xdown>
 		</image>
 		
 		
@@ -477,10 +470,6 @@
 			<clicksound>2</clicksound>
 			
 			<user20><!--&xbuttonb;-->2 </user20>
-			<xleft> <ref src="class_button_create" trait="mouseover"/> </xleft>
-			<xright> <ref src="class_button_create" trait="mouseover"/> </xright>
-			<xup> <ref src="class_list_pane" trait="mouseover"/> </xup>
-			<xdown> <ref src="class_list_pane" trait="mouseover"/> </xdown>
 		</image>
 	</rect>
 	
