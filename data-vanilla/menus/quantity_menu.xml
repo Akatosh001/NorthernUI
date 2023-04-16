@@ -118,8 +118,6 @@
 			<xdefault> &true; </xdefault>
 			<xleft> <ref src="horizontal_scroll_left" trait="clicked"/> </xleft>
 			<xright> <ref src="horizontal_scroll_right" trait="clicked"/> </xright>
-			<xdown> <ref src="quantity_button_okay" trait="mouseover"/> </xdown>
-			<xup> <ref src="quantity_button_cancel" trait="mouseover"/> </xup>
 			
 			<image name="quantity_scroll_marker_2">
 				<depth> 1 </depth>
@@ -178,10 +176,6 @@
 			
 			<user20><!--&xbuttona;-->1 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="quantity_button_cancel" trait="mouseover"/> </xleft>
-			<xright> <ref src="quantity_button_cancel" trait="mouseover"/> </xright>
-			<xdown> <ref src="quantity_scroll_marker" trait="mouseover"/> </xdown>
-			<xup> <ref src="quantity_scroll_marker" trait="mouseover"/> </xup>
 		</image>
 		
 		
@@ -204,10 +198,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="quantity_button_okay" trait="mouseover"/> </xleft>
-			<xright> <ref src="quantity_button_okay" trait="mouseover"/> </xright>
-			<xdown> <ref src="quantity_scroll_marker" trait="mouseover"/> </xdown>
-			<xup> <ref src="quantity_scroll_marker" trait="mouseover"/> </xup>
 		</image>
 		
 	</image>
