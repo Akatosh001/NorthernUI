@@ -328,14 +328,6 @@
 		
 	</rect>			<!-- END GENERIC BACKGROUND DEFINITION -->
 	
-	
-	
-	
-	
-	
-	
-	
-	
 	<template name="load_game_template">
 		<rect name="LOADS">
 			<alpha> 0 </alpha>
