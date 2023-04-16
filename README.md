@@ -1,4 +1,7 @@
 # NorthernUI
+
+**All the work put into reverse engineering Oblivion and developing NorthernUI's code base was done by David Cobb (https://github.com/DavidJCobb/NorthernUI). This is a fork of his work designed to fix minor UI errors in the NorthernUI-away version (the vanilla controller interface). All credit and much thanks to David for his work on making Oblivion playable with a controller on PC.**
+
 Source code for a DLL that modifies Oblivion's UI engine. The mod is currently available for distribution [on NexusMods](https://www.nexusmods.com/oblivion/mods/48577).
 
 ## Setup
