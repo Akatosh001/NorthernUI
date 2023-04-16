@@ -152,8 +152,6 @@
 				<xlist> &xlist; </xlist>
 				<!--xup> &last; </xup>
 				<xdown> &first; </xdown-->
-				<xright> <ref src="save_button_return" trait="mouseover" /> </xright>
-				<xleft> <ref src="save_button_return" trait="mouseover" /> </xleft>
 				<xscroll> <ref src="save_scroll_bar" trait="user5" /> </xscroll>
 			</rect>
 		</rect>
