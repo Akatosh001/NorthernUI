@@ -154,10 +154,6 @@
 				<target> &false; </target>
 				<xdefault> &true; </xdefault>
 				<xlist> &xlist; </xlist>
-				<!--xup> &last; </xup>
-				<xdown> &first; </xdown-->
-				<xleft> <ref src="load_return_button" trait="mouseover"/> </xleft>
-				<xright> <ref src="load_return_button" trait="mouseover"/> </xright>
 				<xscroll> <ref src="load_scroll_bar" trait="user5" /> </xscroll>
 			</rect>
 		</rect>
@@ -328,10 +324,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xup> <ref src="load_list_pane" trait="mouseover"/> </xup>
-			<xdown> <ref src="load_list_pane" trait="mouseover"/> </xdown>
-			<xleft> <ref src="load_list_pane" trait="mouseover"/> </xleft>
-			<xright> <ref src="load_list_pane" trait="mouseover"/> </xright>
 		</image>
 		
 	</rect>			<!-- END GENERIC BACKGROUND DEFINITION -->
