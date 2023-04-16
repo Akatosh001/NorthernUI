@@ -227,8 +227,6 @@
 			
 			<user20><!--&xbuttona;-->1 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="train_button_exit" trait="mouseover"/> </xleft>
-			<xright> <ref src="train_button_exit" trait="mouseover"/> </xright>
 		</image>
 		
 		
@@ -250,8 +248,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="train_button_train" trait="mouseover"/> </xleft>
-			<xright> <ref src="train_button_train" trait="mouseover"/> </xright>
 		</image>
 		
 	</rect>
