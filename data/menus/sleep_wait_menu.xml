@@ -134,7 +134,6 @@
             <xdefault>5</xdefault>
             <xleft> <ref src="horizontal_scroll_left" trait="clicked"/> </xleft>
             <xright> <ref src="horizontal_scroll_right" trait="clicked"/> </xright>
-            <xdown> <ref src="sleep_button_sleep_wait" trait="mouseover"/> </xdown>
             <xbuttonlb> <ref src="horizontal_scroll_leftside" trait="clicked"/> </xbuttonlb>
             <xbuttonrb> <ref src="horizontal_scroll_rightside" trait="clicked"/> </xbuttonrb>
          </image>
@@ -265,9 +264,6 @@
                <_paddingX>16</_paddingX>
                <_paddingY> 8</_paddingY>
                
-               <xleft> <ref src="sleep_button_cancel" trait="mouseover"/> </xleft>
-               <xright><ref src="sleep_button_cancel" trait="mouseover"/> </xright>
-               <xup>   <ref src="sleep_slider_keynav_shim" trait="mouseover"/> </xup>
             </image>
             <image name="sleep_button_cancel">
                <include src="NorthernUI\buttons\gamepad_control_or_button.xml"/>
@@ -285,9 +281,6 @@
                <_paddingX>16</_paddingX>
                <_paddingY> 8</_paddingY>
                
-               <xleft> <ref src="sleep_button_sleep_wait"  trait="mouseover"/> </xleft>
-               <xright><ref src="sleep_button_sleep_wait"  trait="mouseover"/> </xright>
-               <xup>   <ref src="sleep_slider_keynav_shim" trait="mouseover"/> </xup>
             </image>
          </rect>
       </rect>
