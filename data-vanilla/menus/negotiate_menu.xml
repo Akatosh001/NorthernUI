@@ -143,8 +143,6 @@
 			<xdefault> &true; </xdefault>
 			<xleft> <ref src="horizontal_scroll_left" trait="clicked"/> </xleft>
 			<xright> <ref src="horizontal_scroll_right" trait="clicked"/> </xright>
-			<xdown> <ref src="negotiate_button_okay" trait="mouseover"/> </xdown>
-			<xup> <ref src="negotiate_button_cancel" trait="mouseover"/> </xup>
 			
 			<image name="negotiate_scroll_marker_2">
 				<depth> 2 </depth>
@@ -275,10 +273,6 @@
 			
 			<user20><!--&xbuttona;-->1 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="negotiate_button_cancel" trait="mouseover"/> </xleft>
-			<xright> <ref src="negotiate_button_cancel" trait="mouseover"/> </xright>
-			<xdown> <ref src="negotiate_scroll_marker" trait="mouseover"/> </xdown>
-			<xup> <ref src="negotiate_scroll_marker" trait="mouseover"/> </xup>
 		</image>
 		
 		
@@ -301,10 +295,6 @@
 			
 			<user20><!--&xbuttonb;-->2 </user20>
 			<xdefault> &xboxhint; </xdefault>
-			<xleft> <ref src="negotiate_button_okay" trait="mouseover"/> </xleft>
-			<xright> <ref src="negotiate_button_okay" trait="mouseover"/> </xright>
-			<xdown> <ref src="negotiate_scroll_marker" trait="mouseover"/> </xdown>
-			<xup> <ref src="negotiate_scroll_marker" trait="mouseover"/> </xup>
 		</image>
 		
 	</rect>
