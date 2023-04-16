@@ -94,7 +94,7 @@
 			<xdefault> &true; </xdefault>
 			<xleft> <ref src="child(horizontal_scroll_left)" trait="clicked"/> </xleft>
 			<xright> <ref src="child(horizontal_scroll_right)" trait="clicked"/> </xright>
-			<xup> <ref src="audio_return_button" trait="mouseover"/> </xup>
+			<xup> <ref src="audio_music_slider_marker" trait="mouseover"/> </xup>
 			<xdown> <ref src="audio_voice_slider_marker" trait="mouseover"/> </xdown>
 			<xbuttonlb> <ref src="child(horizontal_scroll_leftside)" trait="clicked"/> </xbuttonlb>
 			<xbuttonrb> <ref src="child(horizontal_scroll_rightside)" trait="clicked"/> </xbuttonrb>
@@ -446,7 +446,7 @@
 			<xleft> <ref src="child(horizontal_scroll_left)" trait="clicked"/> </xleft>
 			<xright> <ref src="child(horizontal_scroll_right)" trait="clicked"/> </xright>
 			<xup> <ref src="audio_foot_slider_marker" trait="mouseover"/> </xup>
-			<xdown> <ref src="audio_defaults_button" trait="mouseover"/> </xdown>
+			<xdown> <ref src="audio_master_slider_marker" trait="mouseover"/> </xdown>
 			<xbuttonlb> <ref src="child(horizontal_scroll_leftside)" trait="clicked"/> </xbuttonlb>
 			<xbuttonrb> <ref src="child(horizontal_scroll_rightside)" trait="clicked"/> </xbuttonrb>
 			
